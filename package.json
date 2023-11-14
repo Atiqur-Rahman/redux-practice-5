@@ -1,0 +1,14 @@
+{
+  "name": "redux-practice-5",
+  "version": "1.0.0",
+  "description": "redux-practice-5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atik_rahman",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
